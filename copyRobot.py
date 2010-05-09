@@ -74,6 +74,7 @@ def main():
 	# Keep track of the number of discs we've copied
 	discCount = 0
 	
+	# This script runs indefinitely, until you hit ctrl + c to kill it
 	while True:
 		
 		# Increment the disc counter
