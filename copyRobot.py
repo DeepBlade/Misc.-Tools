@@ -24,7 +24,7 @@ import time
 import shutil
 
 # The directory where we want to copy all the contents to
-targetDir = "/Volumes/1.5 Terabyte/temp/"
+targetDir = "/Volumes/Drobo/temp/"
 
 # Returns the mount point of the DVD drive, if a disc is inserted.
 # If no disc is inserted, it will return None

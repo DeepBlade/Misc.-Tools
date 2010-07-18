@@ -1,0 +1,14 @@
+Miscellaneous Tools
+author: Kelvin Ng (deepblade@gmail.com)
+
+This is a repository of miscellaneous useful tools that I've created.
+I've written these on my Mac, so assume that they only work in Mac OSX for now.
+
+- copyRobot is a Python script that automates copying contents of a CD or DVD
+  to a target directory. This will help in eliminating physical media.
+
+- imageRobot is a Python script that automates the imaging process of
+  a CD or DVD to a target directory. Again, this is to help the process
+  of eliminating physical media.
+
+
